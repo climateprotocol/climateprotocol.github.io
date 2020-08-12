@@ -1,0 +1,14 @@
+title: Climate Protocol
+email: climateprotocol@protonmail.com
+description: >-
+  Hi, I'm a 16 years old student from Germany. This is my blog
+  all around climate change and what to do about.
+baseurl: ""
+url: "https://climateprotocol.github.io"
+github_username: climateprotocol
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
