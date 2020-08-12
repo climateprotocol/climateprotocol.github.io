@@ -1,11 +1,15 @@
 title: Climate Protocol
 email: climateprotocol@protonmail.com
+tagline: A blog about climate change
 description: >-
   Hi, I'm a 16 years old student from Germany. This is my blog
   all around climate change and what to do about.
 baseurl: ""
 url: "https://climateprotocol.github.io"
 github_username: climateprotocol
+
+# <meta name="google-site-verification" content="cHMD3Hv8TfQtbfFMWZBll4tuUxq-mNHf-3rgq5HvsUU" />
+google_site_verification: cHMD3Hv8TfQtbfFMWZBll4tuUxq-mNHf-3rgq5HvsUU
 
 # Build settings
 theme: minima
